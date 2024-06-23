@@ -1,5 +1,11 @@
 This tutorial shows how to create a custom model (maze) and add to an existing world.  Model is a keyword used to refer a virtual object in Gazebo. You can add any model from the existing models in Gazebo. Many models are available to be used in simulations. 
 
+
+https://www.youtube.com/watch?v=J_vasKVhUQM
+
+![image](https://github.com/nazib007/turtlebot-tutorial-2D-map-asanka/assets/49647912/0300de69-5623-40d7-b909-40bd085b7ee4)
+
+
 These steps are demonstrated in the video.
 1.	Create a new package called my_simulation.
 
@@ -29,3 +35,5 @@ Software used for this tutorial:
 Compiling (catkin_make) step is not always shown in the video. Always compile your packages after making changes to your files.
 
 https://www.youtube.com/watch?v=J_vasKVhUQM
+
+
